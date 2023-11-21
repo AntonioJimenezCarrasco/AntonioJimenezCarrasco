@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonioJimenezCarrasco
-- 👀 I’m interested in cybersecurity, finance and overall technology. 
-- 🌱 I’m currently learning networking/web pentesting and Python.
+- 👀 I work as a Cybersecurity Consultant.  
+- 🌱 I’m currently learning scripting and web development. 
 - 💞️ I’m looking to collaborate on anything really, from Open Source to some paid gigs.
 - 📫 You can send me a DM on LinkedIn https://www.linkedin.com/in/antonio-jimenez-carrasco/
 
